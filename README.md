@@ -19,9 +19,9 @@ I am a Backend Developer based in 🇮🇱 <img src="https://github.com/dolevtab
 
 - 💭: Exploring the innovations of software development is my passion.
 
-- 🔭 I’m currently working on [MyButtons App](https://github.com/dolevtabibi/MyButtons)
+- 🔭 I’m currently working on [ecommerce-application asp.net](https://github.com/dolevtabibi/ecommerce-application)
 
-- 🌱 I’m currently learning **.NET MAUI**
+- 🌱 I’m currently learning **ASP.NET**
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-dolevtabibi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dolevtabibi)
 
