@@ -15,7 +15,7 @@
 
 
 ## 👓 About Me :
-I am a Backend Developer based in 🇮🇱 ![IL Flag](https://github.com/dolevtabibi/dolevtabibi/raw/main/assets/88586308/b8de064f-9cb4-481a-a15a-8c1ac2cec1c6.png)
+I am a Backend Developer based in 🇮🇱 ![IL Flag](https://raw.githubusercontent.com/dolevtabibi/dolevtabibi/main/assets/88586308/b8de064f-9cb4-481a-a15a-8c1ac2cec1c6.png)
 
 - 💭: Exploring the innovations of software development is my passion.
 
