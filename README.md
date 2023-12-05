@@ -12,6 +12,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+![th](https://github.com/dolevtabibi/dolevtabibi/assets/88586308/ef2660c7-e839-441e-b740-67236cb6bdef)
 
 
 ## 👓 About Me :
