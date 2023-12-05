@@ -15,7 +15,7 @@
 ---
 
 ## 👓 About Me :
-I am a Backend Developer based in 🇮🇱 <img src="https://github.com/dolevtabibi/dolevtabibi/assets/88586308/b6158da3-7099-4813-8ba9-055145da3ac4" alt="IL" style="width: 35px; height: 25px;">
+I am a Backend Developer based in 🇮🇱 <img src="[https://github.com/dolevtabibi/dolevtabibi/assets/88586308/b6158da3-7099-4813-8ba9-055145da3ac4](https://github.com/dolevtabibi/dolevtabibi/assets/88586308/b8de064f-9cb4-481a-a15a-8c1ac2cec1c6)" alt="IL" style="width: 35px; height: 25px;">
 
 - 💭: Exploring the innovations of software development is my passion.
 
