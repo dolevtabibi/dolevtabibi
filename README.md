@@ -15,8 +15,8 @@
 
 
 ## 👓 About Me :
-I am a Backend Developer based in 🇮🇱 [![IL](https://raw.githubusercontent.com/dolevtabibi/dolevtabibi/main/assets/88586308/ef2660c7-e839-441e-b740-67236cb6bdef)
-]
+I am a Backend Developer based in 🇮🇱 <img src="https://raw.githubusercontent.com/dolevtabibi/dolevtabibi/main/assets/88586308/ef2660c7-e839-441e-b740-67236cb6bdef" alt="IL" style="width: 35px; height: 25px;">
+
 - 💭: Exploring the innovations of software development is my passion.
 
 - 🔭 I’m currently working on [ecommerce-application asp.net](https://github.com/dolevtabibi/ecommerce-application)
