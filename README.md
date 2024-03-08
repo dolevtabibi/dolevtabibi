@@ -14,7 +14,7 @@
  
 
 ## 👓 About Me :
-I am a Junior Software Developer based in 🇮🇱 <img src="https://github.com/dolevtabibi/dolevtabibi/assets/88586308/eadf584e-4ca9-4dbf-9d4f-a505f459a5cff" alt="IL" style="width: 35px; height: 25px;">
+I am a Junior Software Developer based in 🇮🇱
 
 - 💭: Exploring the innovations of software development is my passion.
 
@@ -42,7 +42,6 @@ I am a Junior Software Developer based in 🇮🇱 <img src="https://github.com/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 35px; height: 35px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 35px; height: 35px;">
