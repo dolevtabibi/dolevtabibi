@@ -48,6 +48,8 @@ I am a Junior Software Developer based in 🇮🇱
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="width: 35px; height: 35px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/ostman-original.svg" alt="postman" style="width: 35px; height: 35px;">
+
   
 </div>
 
